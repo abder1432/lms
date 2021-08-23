@@ -1,6 +1,6 @@
 *
-!logos
-!uploads
-!invoices
-!certificates
-!.gitignore
+#!logos
+#!uploads
+#!invoices
+#!certificates
+#!.gitignore
