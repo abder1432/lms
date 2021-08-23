@@ -1,7 +1,7 @@
 /node_modules
-/public/storage
-/storage/*.key
-/storage/framework/sessions/*
+# /public/storage
+#  /storage/*.key
+#  /storage/framework/sessions/*
 /vendor
 Homestead.yaml
 Homestead.json
